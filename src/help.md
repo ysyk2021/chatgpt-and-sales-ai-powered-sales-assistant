@@ -17,4 +17,4 @@
 17. Sales data analytics
 18. Emerging trends in sales technology
 19. Competitive edge in sales
-20. Sales strategy and tactics.
+20. Sales strategy and tactics
