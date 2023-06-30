@@ -3,11 +3,6 @@ Importance of Sales Assistance in Improving Customer Experience
 
 The sales industry is a critical component of any business, responsible for generating revenue through the sale of products and services. In this chapter, we will explore the basics of the sales industry and the importance of sales assistance in improving customer experience.
 
-What is the Sales Industry?
----------------------------
-
-The sales industry encompasses all aspects of selling products or services to customers. This includes lead generation, customer outreach, product demonstrations, negotiations, and closing deals. The ultimate goal of the sales industry is to generate revenue and drive business growth.
-
 Importance of Sales Assistance
 ------------------------------
 
