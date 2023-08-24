@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT in Sales Industry
-===============================================================================================
 
 Implementing ChatGPT in the sales industry can be a complex process, but following these steps can help ensure success:
 

@@ -1,5 +1,3 @@
-Chapter 6: Future of Sales Industry with ChatGPT
-================================================
 
 As the sales industry continues to evolve, so too does the role of ChatGPT as an AI-powered sales assistant. In this chapter, we will explore the potential advancements that could be made in the sales industry with the use of ChatGPT, as well as the emerging trends and challenges that must be addressed.
 

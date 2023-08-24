@@ -1,5 +1,3 @@
-The Role of ChatGPT in AI-Powered Sales Assistance
-================================================================
 
 The sales industry is constantly evolving, and businesses are always looking for ways to improve their sales performance and increase customer satisfaction. One solution that has gained popularity in recent years is the use of AI-powered sales assistance tools such as ChatGPT.
 

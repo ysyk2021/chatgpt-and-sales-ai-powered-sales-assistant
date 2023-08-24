@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the role of ChatGPT in AI-powered sales assistance. We discussed the challenges faced by the sales industry, the limitations of traditional sales methods, and how ChatGPT can overcome these limitations to improve sales performance and customer satisfaction.
 

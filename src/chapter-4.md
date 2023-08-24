@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Sales
-===============================================
 
 In this chapter, we will discuss the role of AI and chatbots in sales. Specifically, we will introduce AI and chatbots, explore how they can improve sales assistance, and discuss the benefits of using AI and chatbots for the sales industry.
 

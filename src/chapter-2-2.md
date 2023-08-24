@@ -1,5 +1,3 @@
-Different Types of Sales Businesses
-========================================================================
 
 The sales industry is a vast and diverse field that encompasses various types of businesses. In this chapter, we will discuss the different types of sales businesses.
 

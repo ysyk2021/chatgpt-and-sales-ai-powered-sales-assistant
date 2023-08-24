@@ -1,5 +1,3 @@
-Definition of Sales Industry
-=================================================================
 
 The sales industry is a broad term that refers to the activities involved in selling products or services to customers. It encompasses various functions such as lead generation, customer relationship management, and closing deals. The sales industry is an essential part of many businesses as it generates revenue and drives growth.
 

@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 ChatGPT is a state-of-the-art AI language model that has the potential to revolutionize the sales industry. In this chapter, we will explore what ChatGPT is, how it works, and its potential applications in the sales industry.
 

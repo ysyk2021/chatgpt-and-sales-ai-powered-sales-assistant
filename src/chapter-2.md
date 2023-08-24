@@ -1,5 +1,3 @@
-Chapter 1: Basics of Sales Industry
-===================================
 
 The sales industry is a vital element of any business, responsible for generating revenue through the sale of products and services. In this chapter, we will explore the basics of the sales industry, including its definition, different types of sales businesses, and the importance of sales assistance in improving customer experience.
 

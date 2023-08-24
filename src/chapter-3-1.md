@@ -1,5 +1,3 @@
-Factors Affecting Sales Industry
-=========================================================================
 
 The sales industry faces several challenges that can impact its success. In this chapter, we will explore some of the factors that affect the sales industry and the challenges they present.
 

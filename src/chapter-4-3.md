@@ -1,5 +1,3 @@
-Benefits of Using AI and Chatbots for Sales Industry
-=====================================================================================================
 
 The use of artificial intelligence (AI) and chatbots in the sales industry has numerous benefits. In this chapter, we will explore some of the ways that AI and chatbots can improve the sales industry.
 
