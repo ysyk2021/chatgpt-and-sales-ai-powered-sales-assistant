@@ -1,5 +1,4 @@
-Chapter 2: Factors Affecting the Sales Industry
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The sales industry is subject to a multitude of factors that influence its dynamics, strategies, and outcomes. In this chapter, we will explore the key factors that play a significant role in shaping the sales landscape.
 

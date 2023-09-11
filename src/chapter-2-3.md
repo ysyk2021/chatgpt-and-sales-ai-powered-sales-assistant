@@ -1,5 +1,4 @@
-Chapter 5: Importance of Sales Assistance in Improving Customer Experience
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the pivotal role that sales assistance plays in enhancing the overall customer experience. In today's competitive business landscape, delivering exceptional customer experiences is paramount, and sales assistance is a critical component of achieving this goal.
 

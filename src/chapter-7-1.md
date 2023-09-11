@@ -1,5 +1,4 @@
-Chapter 6: Potential Advancements in the Sales Industry with ChatGPT
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of ChatGPT and other AI-powered technologies into the sales industry has already brought significant improvements in efficiency and effectiveness. However, the potential for advancements in the field is vast and continues to evolve. In this chapter, we'll explore some of the exciting possibilities for the future of the sales industry with ChatGPT.
 

@@ -1,5 +1,4 @@
-Chapter 7: Case Studies of Companies Successfully Implementing ChatGPT in Sales
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into real-world case studies of companies that have leveraged ChatGPT and AI-powered sales assistants to transform their sales processes and achieve remarkable results.
 

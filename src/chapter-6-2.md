@@ -1,5 +1,4 @@
-Chapter 4: Best Practices for Using ChatGPT in Sales Assistance
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the best practices for harnessing the power of ChatGPT and AI in sales assistance. Integrating AI-driven sales assistants can significantly enhance efficiency and customer engagement, but it requires a strategic approach. We will explore key guidelines and strategies for maximizing the benefits of ChatGPT in sales.
 

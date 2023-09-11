@@ -1,5 +1,4 @@
-Chapter 6: Impact of Challenges on Sales Outcomes
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the previous chapters, we discussed the exciting capabilities and potential of ChatGPT and AI-powered sales assistants. However, it's essential to acknowledge that the adoption of such technology is not without its challenges. In this chapter, we will explore how these challenges can impact sales outcomes and strategies.
 

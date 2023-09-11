@@ -1,5 +1,4 @@
-Chapter 3: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by OpenAI's cutting-edge natural language processing technology, is a versatile AI model that has gained widespread attention and adoption across various industries, including sales. In this chapter, we will delve into the features and capabilities that make ChatGPT a game-changer in the world of AI-powered sales assistance.
 

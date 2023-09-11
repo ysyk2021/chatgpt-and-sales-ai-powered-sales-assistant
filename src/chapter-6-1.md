@@ -1,5 +1,4 @@
-Chapter 8: Steps to Implement ChatGPT in the Sales Industry
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline a step-by-step guide to help businesses implement ChatGPT and AI-powered sales assistants effectively in the sales industry. Leveraging AI in sales can streamline processes, enhance customer interactions, and drive revenue growth.
 

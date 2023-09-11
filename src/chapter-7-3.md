@@ -1,5 +1,4 @@
-Chapter 7: Conclusion and Future Outlook
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this book, we've explored the transformative impact of ChatGPT and AI-powered sales assistants on the sales industry. We've delved into their features, capabilities, and potential advancements, as well as the emerging trends and challenges in this dynamic field. Now, as we conclude, let's reflect on the journey we've taken and look towards the future.
 

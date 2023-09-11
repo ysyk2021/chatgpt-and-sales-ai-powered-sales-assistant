@@ -1,5 +1,4 @@
-Chapter 2: Different Types of Sales Businesses
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the world of sales, diversity reigns supreme. There are various types of sales businesses, each with its unique characteristics, strategies, and challenges. Understanding these different types can help you tailor your sales approach to suit specific industries and markets. In this chapter, we will explore some of the most common types of sales businesses.
 

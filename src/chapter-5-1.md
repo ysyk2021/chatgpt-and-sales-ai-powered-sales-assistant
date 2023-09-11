@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is a groundbreaking artificial intelligence (AI) model developed by OpenAI. It represents a significant leap in the field of natural language processing (NLP) and has garnered widespread attention for its remarkable ability to understand and generate human-like text. In this chapter, we will delve into the core concepts and features that define ChatGPT.
 

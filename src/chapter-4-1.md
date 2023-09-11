@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this introductory chapter, we will explore the fundamental concepts of Artificial Intelligence (AI) and chatbots, setting the stage for understanding their role in powering sales assistants and transforming the sales landscape.
 

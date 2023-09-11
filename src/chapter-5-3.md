@@ -1,5 +1,4 @@
-Chapter 4: How ChatGPT Can Be Used for AI-Powered Sales Assistance
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of sales, technology plays a pivotal role in enhancing efficiency and effectiveness. Artificial Intelligence (AI) has emerged as a powerful tool, and ChatGPT, with its natural language understanding and generation capabilities, can be harnessed to create AI-powered sales assistants. In this chapter, we'll explore how ChatGPT can be used to revolutionize the world of sales.
 

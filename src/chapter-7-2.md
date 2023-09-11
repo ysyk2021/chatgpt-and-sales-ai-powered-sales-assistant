@@ -1,5 +1,4 @@
-Chapter 5: Emerging Trends and Challenges in Sales and ChatGPT
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the dynamic landscape of sales and AI-powered assistance, staying abreast of emerging trends and addressing associated challenges is essential for businesses looking to remain competitive. This chapter explores the latest developments and potential hurdles in the intersection of sales and ChatGPT.
 

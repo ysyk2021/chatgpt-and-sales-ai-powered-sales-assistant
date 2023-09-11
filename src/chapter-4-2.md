@@ -1,5 +1,4 @@
-Chapter 3: How AI and Chatbots Can Improve Sales Assistance
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ways in which Artificial Intelligence (AI) and chatbots can significantly enhance the quality and effectiveness of sales assistance in the modern business landscape.
 
